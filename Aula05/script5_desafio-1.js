@@ -6,7 +6,7 @@ media = (av1 + av2) / 2;
 
 saida.innerHTML += "media (6), Fique esperto <br>";
 saida.innerHTML += `AV1, nota ${av1} <br> AV2, nota ${av2} <br>`;
-saida.innerHTML += "";
+saida.innerHTML += "";      
 
 if (media >= 6){
     saida.innerHTML += "Aprovado - Parabéns ";
