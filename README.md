@@ -1,2 +1,2 @@
 # JavaScrip
-Apredendo a Programar
+Aprendendo a Programar
