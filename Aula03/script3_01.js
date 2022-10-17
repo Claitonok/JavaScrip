@@ -1,0 +1,15 @@
+let oct = 010;
+let bin = 0b11; 
+let hexa = 0x10;
+let dia, nota, cep;
+dia = 25;
+nota = 9.7;
+cep = "03312123";
+document.write ("dia: ",dia,"<br>");
+document.write ("nota: ",nota,"<br>");
+document.write("<br>");
+document.write("oct: ",oct,"<br>");
+document.write("bin: ",bin,"<br>");
+document.write("hexa: ",hexa,"<br>");
+document.write("<br>");
+document.write("cep: ",cep,"<br>");
